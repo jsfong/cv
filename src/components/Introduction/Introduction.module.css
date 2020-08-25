@@ -1,0 +1,20 @@
+
+.title {
+  background-color: #decdc3;
+  color: #2d4059;
+  font-family: 'Montserrat', sans-serif;
+  text-align: right;
+  padding: 3% 15% 7%;
+  font-weight: 500;
+}
+
+.titleImg {
+  position: absolute;
+  right: 30%;
+}
+
+.titleBig{
+  font-weight: 500;  
+  font-size: 3.5rem;
+  right: 0px;
+}
