@@ -1,0 +1,47 @@
+/* https://colorhunt.co/palette/15830 */
+/* https://colorhunt.co/palette/201830 */
+.title {
+  background-color: #f5f5f5;
+  color: #364f6b;
+
+  /* background-color: #e5e5e5;
+  color: #2d4059; */
+  
+  font-family: 'Montserrat', sans-serif;
+  /* text-align: right; */
+  padding: 3% 15% 7%;
+  font-weight: 500;
+}
+
+.titleImg {
+  position: absolute;
+  left: 10%;
+  border-radius: 100%;
+}
+
+.titleHello{
+ font-size: 3rem;
+ letter-spacing: 0;
+}
+
+.titleBig{
+  font-weight: bold;  
+  font-size: 6rem;
+  right: 0px;
+  letter-spacing: 0.2rem;
+}
+
+p {
+  letter-spacing: 0.18rem
+}
+
+.downloadButton{
+  margin: 5% 5% 5% 0;
+  background: #364f6b;
+  border-color: #364f6b;
+}
+
+.downloadButton:hover {
+  background: #3fc1c9;
+  border-color: #3fc1c9;
+}
