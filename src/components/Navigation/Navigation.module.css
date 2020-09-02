@@ -1,0 +1,12 @@
+.NavBar{
+    padding: 2% 15%;
+    background-color: #f5f5f5;
+    font-family: 'Montserrat', sans-serif;
+    color: #364f6b;
+}
+
+.NavBarBrand{   
+    font-weight: 500;   
+    color: #364f6b; 
+}
+
