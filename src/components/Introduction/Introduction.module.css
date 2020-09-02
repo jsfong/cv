@@ -3,7 +3,7 @@
   background-color: #decdc3;
   color: #2d4059;
   font-family: 'Montserrat', sans-serif;
-  text-align: right;
+  /* text-align: right; */
   padding: 3% 15% 7%;
   font-weight: 500;
 }
@@ -13,8 +13,12 @@
   right: 30%;
 }
 
+.titleHello{
+ font-size: 3rem;
+}
+
 .titleBig{
-  font-weight: 500;  
-  font-size: 3.5rem;
+  font-weight: bold;  
+  font-size: 5rem;
   right: 0px;
 }
