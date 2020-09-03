@@ -15,7 +15,7 @@
 
 .titleImg {
   position: absolute;
-  left: 10%;
+  left: 20%;
   border-radius: 100%;
 }
 
@@ -44,4 +44,18 @@ p {
 .downloadButton:hover {
   background: #3fc1c9;
   border-color: #3fc1c9;
+}
+
+@media (max-width: 768px) {  
+  
+  .titleImg {
+    position: relative;
+    left: 28%;
+    top: 5%;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+
+  }
+
 }
