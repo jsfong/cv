@@ -10,7 +10,7 @@ function Introduction() {
           <h1 className={classes.titleBig}>Js Fong</h1>
           <p>Software engineer based in Singapore</p>
           <button type="button" className={`btn btn-dark btn-lg ${classes.downloadButton}`} href="#" >
-            <i class="far fa-file-pdf"></i>
+            <i className="far fa-file-pdf"></i>
             &nbsp; Download CV
           </button>
           <a className={`btn btn-dark btn-lg ${classes.downloadButton}`} href="mailto:jsfong5105@gmail.com"><i class="far fa-envelope"></i> &nbsp;Contact Me</a>
