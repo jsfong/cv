@@ -1,0 +1,14 @@
+.featuresSection{
+    /* position: relative; */
+    padding: 3% 14% 7%;
+}
+.skillTitle{
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.skillSection{
+    background-color: #3fc1c9;
+    color: #212529;
+    padding: 3% 14% 7%;
+}

@@ -1,10 +1,12 @@
 import React from "react";
+import classes from './Features.module.css'
+
 function Features(props) {
     return (
-        <div className={`col-lg-4`}>
-            <i className={`${props.icon} icon`}></i>
-            <h3 className={`featureTitle`}>{props.title}</h3>
-            <p>{props.description}</p>
+        <div className={`col-md-6 col-lg-4 ${classes.box}`}>
+            <i className={`${props.icon}  ${classes.icon}`}></i>
+            <h4 className={`${classes.title}`}>{props.title}</h4>
+            <p className={`${classes.description}`}>{props.description}</p>
         </div>
     )
 

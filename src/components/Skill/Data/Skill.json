@@ -1,0 +1,67 @@
+[
+   {
+      "id": 1,
+      "name": "Java",
+      "point": 5
+   },
+   {
+      "id": 2,
+      "name": "Spring Boot",
+      "point": 5
+   },
+   {
+      "id": 3,
+      "name": "Docker",
+      "point": 4
+   },
+   {
+      "id": 4,
+      "name": "kubernetes",
+      "point": 4
+   },
+   {
+      "id": 5,
+      "name": "Helm",
+      "point": 4
+   },
+   {
+      "id": 6,
+      "name": "Python",
+      "point": 4
+   },
+   {
+      "id": 7,
+      "name": "Javascript",
+      "point": 3
+   },
+   {
+      "id": 8,
+      "name": "C",
+      "point": 4
+   },
+   {
+      "id": 9,
+      "name": "golang",
+      "point": 2
+   },
+   {
+      "id": 10,
+      "name": "Nodejs",
+      "point": 2
+   },
+   {
+      "id": 11,
+      "name": "Reactjs",
+      "point": 2
+   },
+   {
+      "id": 12,
+      "name": "Bootstrap",
+      "point": 2
+   },
+   {
+      "id": 13,
+      "name": "HTML/CSS",
+      "point": 2
+   }
+]

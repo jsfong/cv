@@ -7,7 +7,6 @@
   /* background-color: #e5e5e5;
   color: #2d4059; */
   
-  font-family: 'Montserrat', sans-serif;
   /* text-align: right; */
   padding: 3% 15% 7%;
   font-weight: 500;
@@ -31,7 +30,7 @@
   letter-spacing: 0.2rem;
 }
 
-p {
+.description {
   letter-spacing: 0.18rem
 }
 

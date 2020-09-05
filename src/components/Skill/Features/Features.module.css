@@ -1,0 +1,25 @@
+.box{
+    padding: 5% 4% 3%;
+    text-align: center;
+}
+
+.title{
+    /* font-size: 1.5rem; */
+    margin-bottom: 0.9rem;
+}
+
+.description {
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+}
+
+.icon {
+    margin-bottom: 1.6rem;
+    color: #364f6b;
+    /* color: #3fc1c9; */
+
+}
+
+.icon:hover {
+    color: #3fc1c9;
+}

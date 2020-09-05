@@ -1,0 +1,10 @@
+.skillPoint{
+    display: inline;
+    margin-left: 5%;
+    text-align: right;
+}
+
+.point{
+    font-size: 0.5rem;
+    margin-right:  1.8% ;  
+}
