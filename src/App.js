@@ -1,8 +1,11 @@
 import React, { } from 'react';
 import './App.css';
 import Introduction from './components/Introduction/Introduction';
-import NavBar from './components/Navigation/NavBar'
-import Skill from './components/Skill/Skill'
+import NavBar from './components/Navigation/NavBar';
+import Skill from './components/Skill/Skill';
+import Experience from './components/Experience/Experience';
+import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -10,9 +13,9 @@ function App() {
       <NavBar />
       <Introduction />
       <Skill />
-      <div>Experience</div>
-      <div>Contact</div>
-      <div>Footer</div>
+      <Experience />
+      <Contact />
+      <Footer />
     </div>
   );
 }

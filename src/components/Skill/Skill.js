@@ -30,7 +30,7 @@ function creatSkill(data) {
 
 function Skill() {
     return (
-        <div>
+        <div id="skill">
             <section className={classes.featuresSection}>
                 <div className={`container-fluid`}>
                     <h2 className={classes.skillTitle}>My Specialities</h2>
