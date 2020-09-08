@@ -45,6 +45,11 @@
   border-color: #3fc1c9;
 }
 
+.downloadButton:focus{
+  background: #fc5185;
+  border-color: #fc5185;
+}
+
 @media (max-width: 768px) {  
   
   .titleImg {
