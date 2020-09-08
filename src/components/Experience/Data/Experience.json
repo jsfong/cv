@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Server Development",
         "date": "2019 - Present",
-        "description": "Design and developing microservices using Java Spring Boot. Deploy and maintain infrastructure code using Docker, Kubernetes and Helm Chart."
+        "description": "Developing microservices using Java Spring Boot and other framework. Deploy and maintain infrastructure code using Docker, Kubernetes and Helm Chart."
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
     },
     {
         "id": 4,
-        "title": "Wafer Electornic Testing",
+        "title": "Semiconductor Electornic Testing",
         "date": "2012 - 2013",
         "description": "Developing electronic test program for semiconductor wafer manufactoring."
     }

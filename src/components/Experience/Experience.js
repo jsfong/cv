@@ -17,10 +17,10 @@ function createExpItem(data){
 function Experience() {
 
     return (
-        <div id="experience">
-            <h2 className={classes.skillTitle}>Experience</h2>
+        <section  id="experience"  className={classes.experienceSection}>
+            <h2 className={classes.experienceTitle}>Experience</h2>
             {Exp_data.map(createExpItem)}
-        </div>
+        </section>
     );
 
 }
