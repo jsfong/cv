@@ -1,8 +1,15 @@
 body {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Quicksand', sans-serif;  
+  background-color: #fCfCfC;
+  color: #41444b;
 }
 
 h1, h2, h3, h4 {
   font-family: 'Montserrat', sans-serif;
-  color: #364f6b;
+  /* color: #43658b; */
+  color: #333333;
+}
+
+p {
+  color: #535457;
 }

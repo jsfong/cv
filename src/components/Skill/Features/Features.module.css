@@ -1,5 +1,5 @@
 .box{
-    padding: 5% 4% 3%;
+    padding: 4% 3% 2%;
     text-align: center;
 }
 
@@ -11,15 +11,15 @@
 .description {
     font-size: 0.9rem;
     letter-spacing: 1px;
+    color: #797a7e;
 }
 
 .icon {
     margin-bottom: 1.6rem;
-    color: #364f6b;
-    /* color: #3fc1c9; */
+    color: #43658b;
 
 }
 
 .icon:hover {
-    color: #fc5185;
+    color: #ed6663;
 }
