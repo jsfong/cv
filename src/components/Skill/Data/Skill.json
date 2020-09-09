@@ -5,6 +5,21 @@
       "point": 5
    },
    {
+      "id": 6,
+      "name": "Python",
+      "point": 4
+   },
+   {
+      "id": 7,
+      "name": "Javascript",
+      "point": 3
+   },
+   {
+      "id": 8,
+      "name": "C",
+      "point": 4
+   },
+   {
       "id": 2,
       "name": "Spring Boot",
       "point": 5
@@ -24,21 +39,7 @@
       "name": "Helm",
       "point": 4
    },
-   {
-      "id": 6,
-      "name": "Python",
-      "point": 4
-   },
-   {
-      "id": 7,
-      "name": "Javascript",
-      "point": 3
-   },
-   {
-      "id": 8,
-      "name": "C",
-      "point": 4
-   },
+   
    {
       "id": 9,
       "name": "golang",
