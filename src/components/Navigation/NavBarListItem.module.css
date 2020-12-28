@@ -1,9 +1,15 @@
 .NavItem{
-    padding: 0 18px; 
+    padding: 0 20px; 
    
 }
 
 .NavLink{
-    color: #364f6b;
     font-family: 'Montserrat', sans-serif;
+    font-size: 0.9rem;
+    color: #41444b;
+}
+
+.NavLink:hover{
+    color: #ed6663;
+    text-decoration: underline;
 }

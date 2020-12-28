@@ -1,0 +1,16 @@
+.skill{
+    margin-top: 0.1%;
+    margin-bottom: 0.1%;
+}
+
+.skillNameBox{
+    display: inline-block;
+    width: 130px;
+}
+
+.skillName {
+    display: inline;
+    font-weight: 400;
+    color: #797a7e;
+}
+

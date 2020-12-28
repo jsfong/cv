@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "icon": "fas fa-code fa-3x",
+      "title": "Web Development",
+      "description": "Java Springboot Microservices"
+    },
+    {
+      "id": 2,
+      "icon": "fab fa-docker fa-3x",
+      "title": "Dev Ops",
+      "description": "Docker, kubernetes, Helm, AWS"
+    },
+    {
+      "id": 3,
+      "icon": "fas fa-key fa-3x",
+      "title": "Security & Cryptography",
+      "description": "EMV payment and identity product implementation"
+    },    
+    {
+      "id": 4,
+      "icon": "fas fa-mobile-alt fa-3x",
+      "title": "Android SDK",
+      "description": "SDK library development for Android"
+    },
+    {
+      "id": 5,
+      "icon": "fas fa-sync-alt fa-3x",
+      "title": "Agile",
+      "description": "Scrum methodology"
+    }
+  ]
