@@ -9,8 +9,10 @@
 
 .titleImg {
   position: absolute;
-  left: 20%;
+  left: 15%;
+  top: 15%;
   border-radius: 100%;
+  background: #f6f5f5;
 }
 
 .titleHello{
