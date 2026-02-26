@@ -10,7 +10,7 @@ function Introduction() {
           <h1 className={classes.titleBig}>Js Fong</h1>
           <p className={classes.description}>Software engineer based in Singapore</p>
           <a type="button" className={`btn btn-dark btn-lg ${classes.downloadButton}`}
-            href="https://docs.google.com/document/d/1eBOD8U8qu6kdiChiqK8sOngw5JT3D5LBFuMV5DbEXEM/edit?usp=sharing"
+            href="https://docs.google.com/document/d/1Wnq_VH19kVr9slLvT4CfklaNZ3Crmgx6/edit"
             target="_blank" >
             <i className="far fa-file-pdf"></i>
             &nbsp; Download CV
